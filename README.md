@@ -12,6 +12,7 @@ Based in Orlando, Florida.
 
 An interactive incident-response simulator for practicing the decisions behind resilient systems.
 
+- **[Try the live simulation](https://reliability-lab-ccoop12.gbzf6byn7p.chatgpt.site)**
 - Diagnose cache stampedes, cascading timeouts, and release regressions.
 - Compare plausible mitigations with actions that address the root cause.
 - Watch simulated availability, latency, error rate, and error-budget pressure change.
@@ -37,9 +38,10 @@ An interactive incident-response simulator for practicing the decisions behind r
 
 ## Current stack
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Supabase` · `PostgreSQL` · `GitHub Actions` · `Cloudflare Workers`
+`TypeScript` | `React` | `Next.js` | `Node.js` | `Supabase` | `PostgreSQL` | `GitHub Actions` | `Cloudflare Workers`
 
 ## Connect
 
 - Explore my repositories: [github.com/ccoop12](https://github.com/ccoop12)
 - Start with: [Reliability Lab](https://github.com/ccoop12/reliability-lab)
+- Live demo: [reliability-lab-ccoop12.gbzf6byn7p.chatgpt.site](https://reliability-lab-ccoop12.gbzf6byn7p.chatgpt.site)
